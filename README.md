@@ -1,11 +1,5 @@
 ## Hi there 👋
-
-<img align="right" alt="Coding" width="190" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqQ6NrWclMnEfVw_0hx9pQIlK4mgNZKLtVJc_Ruj-jNEvgjZDlCCe9KQZtccn1tXPKx2-n_dNi8OHHqjHb2mURa9RK_StxSnx0f8I5PKsw0VBhVztVyiGPW1arh_k-7TxcykJyvZRVooay/s1600/document_data_bunseki.png">
-
 **I'm Levi from New York, this is my portfolio for starting my career in the field of data analytics.**
-
-
-<br></br>
 
 <br></br>
 
