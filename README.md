@@ -1,6 +1,8 @@
 ## Hi there 👋
 **I'm Levi from New York, this is my portfolio for starting my career in the field of data analytics.**
 
+Here is my Data Analytic Project Portfolio: https://leviiest.github.io/LeviTheAnalyst.github.io/
+
 <br></br>
 
 ## Program Language & Tech Tools
